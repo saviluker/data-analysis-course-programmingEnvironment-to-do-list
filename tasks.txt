@@ -1,1 +1,6 @@
 # To-Do List
+Complete git lesson
+Review Python basics
+Start Python exercises
+git add. 
+git commit
